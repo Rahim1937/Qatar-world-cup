@@ -219,6 +219,12 @@ Responsive Area
     .match-content .sidebar p{
         border: 1px solid;
     }
+    .footer-bottom{
+        display: block;
+    }
+    .footer-bottom p{
+        padding: 10px;
+    }
     
 }
 
@@ -271,6 +277,7 @@ Responsive Area
     .tablet{
         display: none;
     }
+   
 }
 
 
